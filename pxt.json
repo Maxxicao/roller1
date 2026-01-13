@@ -1,0 +1,58 @@
+{
+    "name": "ROLLER",
+    "description": "By AbstractDesigner & PixelDoodle",
+    "dependencies": {
+        "device": "*",
+        "small-tilemaps": "github:riknoll/small-tilemaps#v0.0.1",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#c8b01b9d47f85a5133c786f1c026b1f376fe4285",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.0.1",
+        "Extra Effects": "github:AlexSzeto/extra-effects#v3.1.0",
+        "pxt-loading": "github:Blobbey2000/pxt-loading\\#v1.3.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.26",
+        "tag": "v1.12.26",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/5913cfba52b36d2a23773b528b9c996b007c0e3f",
+        "target": "1.12.18",
+        "pxt": "8.5.38",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj",
+    "palette": [
+        "#000000",
+        "#29213B",
+        "#363D69",
+        "#7F4A3D",
+        "#D05757",
+        "#FC9849",
+        "#FFD559",
+        "#8CCC4B",
+        "#3E9D4D",
+        "#3E6278",
+        "#4789B2",
+        "#99AEB4",
+        "#88DFD7",
+        "#9F57AF",
+        "#F6779C",
+        "#FFFFFF"
+    ]
+}
